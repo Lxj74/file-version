@@ -1,4 +1,4 @@
 {
   "version": "2.4.0.5",
-  "changes": "Add client address to jobcard printout. Prune HasImages when pictures deleted. Change closed job view. Add automatic check for updates."
+  "changes": "Add client address to jobcard printout, automatic check for updates. Prune HasImages when pictures deleted. Change closed job view."
 }
