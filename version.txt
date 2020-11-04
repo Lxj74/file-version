@@ -1,0 +1,10 @@
+<version>
+2.4.0.4
+</version>
+
+<changes>
+Add client address to jobcard printout.
+Prune “HasImages” when pictures deleted. 
+Change closed job view.
+Add automatic check for updates.
+</changes>
