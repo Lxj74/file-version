@@ -1,4 +1,4 @@
 {
-  "version": "2.4.0.4",
-  "changes": "Add client address to jobcard printout, automatic check for updates. Fix bug when pictures deleted. Change closed job view."
+  "version": "2.4.0.5",
+  "changes": "Restrict deleting of pictures, to finished JobCards only."
 }
