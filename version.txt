@@ -1,4 +1,4 @@
 {
-  "version": "2.4.0.5",
-  "changes": "Restrict deleting of pictures, to finished JobCards only."
+  "version": "2.4.0.8",
+  "changes": "Add modifier to shed info, print customer “book” - PC only.  Extend code field for job card 10 and less items."
 }
