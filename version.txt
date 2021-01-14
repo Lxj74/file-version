@@ -1,4 +1,4 @@
 {
-  "version": "2.4.0.8",
-  "changes": "Add modifier to shed info, print customer “book” - PC only.  Extend code field for job card 10 and less items."
+  "version": "2.4.1",
+  "changes": "Added H&S override. Added Developer option for H&S."
 }
