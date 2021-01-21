@@ -1,4 +1,4 @@
 {
-  "version": "2.4.1",
-  "changes": "Added H&S override. Added Developer option for H&S."
+  "version": "2.4.1.2",
+  "changes": "Alternative selector on timesheet, new fixes implemented."
 }
