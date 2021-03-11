@@ -1,4 +1,4 @@
 {
-  "version": "2.4.1.2",
-  "changes": "Alternative selector on timesheet, new fixes implemented."
+  "version": "2.4.1.4",
+  "changes": "Fixed issue with print of more than 10 stock items."
 }
