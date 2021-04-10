@@ -1,4 +1,4 @@
 {
-  "version": "2.4.1.4",
-  "changes": "Fixed issue with print of more than 10 stock items."
+  "version": "2.4.4",
+  "changes": "Automatic DB prune, Fuel Dockets, Add Barcode ability, slight changes to UI."
 }
