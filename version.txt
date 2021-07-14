@@ -1,4 +1,4 @@
 {
-  "version": "HALT",
-  "changes": "Automatic DB prune, Fuel Dockets, Add Barcode ability, slight changes to UI."
+  "version": "2.5.2",
+  "changes": "Improve close job cards, fix update check, speed improvements."
 }
