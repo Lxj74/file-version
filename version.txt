@@ -1,4 +1,4 @@
 {
   "version": "2.5.2",
-  "changes": "Improve close job cards, fix update check, speed improvements."
+  "changes": "Show closed jobcard Images, enable hide stock items with hide job entry. Copy notes from BOM to stock items. EOL."
 }
