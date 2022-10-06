@@ -1,4 +1,4 @@
 {
-  "version": "2.5.2",
-  "changes": "Show closed jobcard Images, enable hide stock items with hide job entry. Copy notes from BOM to stock items. EOL."
+  "version": "2.9",
+  "changes": "print follow ups without jobcard. Work in progress. Many other under-hood changes."
 }
